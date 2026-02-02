@@ -1,0 +1,17 @@
+
+{
+  "instances": [
+    {
+      "Age": "30",
+      "Job": "blue-collar",
+      "MaritalStatus": "married",
+      "Education": "secondary",
+      "Default": "no",
+      "Balance": "1787",
+      "Housing": "no",
+      "Loan": "no",
+      "Contact": "cellular",
+      "Day": "19"
+    }
+  ]
+}

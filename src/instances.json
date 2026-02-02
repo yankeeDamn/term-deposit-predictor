@@ -1,0 +1,20 @@
+[
+  {
+    "Age": "45.0",
+    "Job": "technician",
+    "MaritalStatus": "married",
+    "Education": "secondary",
+    "Default": "no",
+    "Balance": "800.0",
+    "Housing": "yes",
+    "Loan": "no",
+    "Contact": "cellular",
+    "Day": "16.0",
+    "Month": "may",
+    "Duration": "180.0",
+    "Campaign": "1.0",
+    "PDays": "-1.0",
+    "Previous": "0.0",
+    "POutcome": "unknown"
+  }
+]

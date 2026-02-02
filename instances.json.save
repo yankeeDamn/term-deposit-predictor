@@ -1,0 +1,18 @@
+{
+  "instances": [
+    {
+      "Age": "30",
+      "Job": "unemployed",
+      "MaritalStatus": "married",
+      "Education": "primary",
+      "Default": "no",
+      "Balance": "1787",
+      "Housing": "no",
+      "Loan": "no",
+      "Contact": "cellular",
+      "Day": "19",
+      "Month": "may",
+      "Duration": "200"  <-- ADD THIS LINE
+    }
+  ]
+}
