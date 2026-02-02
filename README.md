@@ -84,7 +84,7 @@ python3 src/predict.py
 
 A successful run will produce output similar to the following:
 ```
-Accessing endpoint: projects/AMCAD/locations/us-central1/endpoints/3131531161696731136
+Accessing endpoint: projects/AMCAD/locations/us-central1/endpoints/3893818931389
 Loading instances from: instances.json
 Sending prediction request...
 ...prediction request complete.
